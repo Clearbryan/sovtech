@@ -15,12 +15,9 @@ Example env script generation for this project:
 ```
 npm run env:generate NODE_ENV=development PORT=4000 API_URI=https://swapi.dev/api/people/
 ```
-<br>
-Install Backend Server Dependencies
-```npm install```
-<br>
-Install Client/Frontend Dependencies
-```npm run client:install```
+# Installing Dependencies
+Backend Server Dependencies run ```npm install``` <br />
+Client/Frontend Dependencies run ```npm run client:install```
 
 # Build GraphQL Schema
 ```npm run schema:download && npm run schema:generate-watch ```
