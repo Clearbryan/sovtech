@@ -7,7 +7,9 @@
     "server": "nodemon src/init.ts",
     "client": "cd client && npm start",
     "app": "concurrently \"npm run server\" \"npm run client\"",
-    "client:install": "cd client && npm install"
+    "client:install": "cd client && npm install",
+    "schema:download": "cd client && npx apollo service:download --endpoint=http://localhost:4000/graphiql ./src/app/graphql/graphql-schema.json",
+    "schema:generate-watch": "cd client && npx apollo codegen:generate --localSchemaFile=./src/app/graphql/graphql-schema.json --target=typescript --tagName=gql --watch"
   },
   "author": "Clearmind Bryan Chetekwe",
   "license": "ISC",
