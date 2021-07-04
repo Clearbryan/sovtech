@@ -19,7 +19,7 @@ Backend Server Dependencies run ```npm install``` <br />
 Client/Frontend Dependencies run ```npm run client:install```
 
 # Build GraphQL Schema
-*Note (You have to have the Grahpql server running (```npm run server```) before running the following command)
+*Note (You have to have the Grahpql server running (```npm run server```) before running the following command)<br>
 ```npm run schema:download && npm run schema:generate-watch ```
 
 # Start App
