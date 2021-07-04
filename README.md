@@ -9,11 +9,11 @@ React (https://reactjs.org/)
 Clone main repository <br />
 ```cd sovtech```
 # Environment variables
-Create Environment variables by running a simple command. Command syntax ```npm run env:generate ${ENV_VARNAME}={ENV_VARKEY} ${ENV_VARNAME}={ENV_VARKEY} ```. You can chain all the environment variables in one command separated by spaces
-
-NODE_ENV=development
-PORT=4000
-API_URI=https://swapi.dev/api/people/
+Create Environment variables by running a simple command. Command syntax ```npm run env:generate ${ENV_VARNAME}={ENV_VARKEY} ${ENV_VARNAME}={ENV_VARKEY} ```. You can chain all the environment variables in one command separated by spaces 
+<br />
+Example env script generation for this project: 
+```
+npm run env:generate NODE_ENV=development PORT=4000 API_URI=https://swapi.dev/api/people/
 ```
 <br>
 Install Backend Server Dependencies
