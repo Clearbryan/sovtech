@@ -9,8 +9,8 @@ React (https://reactjs.org/)
 Clone main repository <br />
 ```cd sovtech```
 # Environment variables
-Create a ```.env``` file in the project root directory and set your variables, Example: <br>
-```
+Create Environment variables by running a simple command. The command syntax is simple ```npm run env:generate ${ENV_VARNAME}={ENV_VARKEY} ${ENV_VARNAME}={ENV_VARKEY} ```. You can chain all the environment variables in one command separated by spaces
+
 NODE_ENV=development
 PORT=4000
 API_URI=https://swapi.dev/api/people/
