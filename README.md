@@ -1,4 +1,4 @@
-# Sovtech Asessment
+# Sovtech Assessment
 Sovtech Full Stack Developer Assessment (Witten in Node.js, TypeScript and React.js)
 # Dependencies
 Node.js (https://nodejs.org/en/)<br />
