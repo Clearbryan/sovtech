@@ -6,8 +6,7 @@ Apollo (https://www.apollographql.com/)<br />
 Graphql (https://graphql.org/) <br />
 React (https://reactjs.org/)
 # Usage
-Clone main repository <br />
-```cd sovtech```
+Clone main repository and run ```cd sovtech```
 # Environment variables
 Create Environment variables by running a simple command. Command syntax ```npm run env:generate ${ENV_VARNAME}={ENV_VARKEY} ${ENV_VARNAME}={ENV_VARKEY} ```. You can chain all the environment variables in one command separated by spaces 
 <br />
