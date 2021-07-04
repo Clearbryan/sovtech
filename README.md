@@ -9,7 +9,7 @@ React (https://reactjs.org/)
 Clone main repository <br />
 ```cd sovtech```
 # Environment variables
-Create Environment variables by running a simple command. The command syntax is simple ```npm run env:generate ${ENV_VARNAME}={ENV_VARKEY} ${ENV_VARNAME}={ENV_VARKEY} ```. You can chain all the environment variables in one command separated by spaces
+Create Environment variables by running a simple command. Command syntax ```npm run env:generate ${ENV_VARNAME}={ENV_VARKEY} ${ENV_VARNAME}={ENV_VARKEY} ```. You can chain all the environment variables in one command separated by spaces
 
 NODE_ENV=development
 PORT=4000
