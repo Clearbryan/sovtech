@@ -21,7 +21,7 @@ Client/Frontend Dependencies run ```npm run client:install```
 # Build GraphQL Schema
 ```npm run schema:download && npm run schema:generate-watch ```
 
-# Run App
+# Start App
 ```npm run app```
 
 # TODO
