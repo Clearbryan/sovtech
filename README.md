@@ -22,7 +22,7 @@ Client/Frontend Dependencies run ```npm run client:install```
 ```npm run schema:download && npm run schema:generate-watch ```
 
 # Start App
-```npm run app```
+```npm run sovtech```
 
 # TODO
 Write Tests
