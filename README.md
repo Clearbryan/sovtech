@@ -25,6 +25,10 @@ Client/Frontend Dependencies run ```npm run client:install```
 # Start App
 ```npm run sovtech```
 
+# Test App
+Frontend: navigate to http://localhost:3000 <br>
+Backend: navigate to http://localhost:4000/graphiql
+
 # TODO
 Write Tests
 # Development
