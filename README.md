@@ -30,8 +30,6 @@ Backend: navigate to http://localhost:4000/graphiql
 
 # TODO
 Write Tests
-# Development
-This is meant to be a Technical Assessment To assess the ability of a JavaScript FullStack Developer for Sovtech (https://www.sovtech.co.za/)
 
 
 
