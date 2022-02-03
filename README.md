@@ -1,5 +1,4 @@
-# Sovtech Assessment
-Sovtech Full Stack Developer Assessment (Witten in Node.js, TypeScript and React.js)
+
 # Dependencies
 Node.js (https://nodejs.org/en/)<br />
 Apollo (https://www.apollographql.com/)<br />
